@@ -1,0 +1,19 @@
+@import url("./nav-style.css");
+:root{
+	--background: #fffffe;
+	--cardBackground: #0f0e17;
+	--highlight: #ff8906;
+	--paragraph: #a7a9be;
+}
+
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+
+
+}
+

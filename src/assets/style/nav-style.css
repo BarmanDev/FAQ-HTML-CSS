@@ -1,0 +1,38 @@
+nav {
+    position: fixed;
+    width: 30rem;
+    height: 100vh;
+    background-color: var(--cardBackground);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.logo {
+    display: block; 
+    margin: 2rem auto; 
+    width: 25%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.button {
+    display: flex;
+    justify-content: center;
+    color: #ff8906;
+    margin: 0.5rem 0;
+    font-size: 2rem;
+    border: 3px solid #ff8906; 
+    transition: background-color 0.5s, color 0.s; 
+
+}
+
+.button:hover {
+    background-color: #ff8906; 
+    color: #fff; 
+}
