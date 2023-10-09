@@ -1,4 +1,5 @@
 @import url("./nav-style.css");
+@import url("./article-style.css");
 :root{
 	--background: #fffffe;
 	--cardBackground: #0f0e17;
