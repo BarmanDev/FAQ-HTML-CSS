@@ -2,7 +2,7 @@
 
 Ejercicio propuesto por la Bootcamp FactoriaF5 para practicar HTML y CSS.
 
-## Resultado de la web
+## Resultado de la web :heavy_check_mark:
 ![Resultado](./src/assets/img/presentation.gif)
 
 ## Objetivos :dart:
@@ -29,7 +29,7 @@ Ejercicio propuesto por la Bootcamp FactoriaF5 para practicar HTML y CSS.
 - Redirecciones a artículos.
 
 ### CSS
-- Reset de estilos.
+- Reseteo de estilos.
 - Estilos de encabezado y subtítulos.
 - Listas.
 - Uso de flex.
